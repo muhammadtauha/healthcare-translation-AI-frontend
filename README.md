@@ -1,8 +1,29 @@
-# React + Vite
+Healthcare Translation Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ Overview
 
-Currently, two official plugins are available:
+The Healthcare Translation Web App is a real-time multilingual communication platform designed to bridge the language gap between patients and healthcare providers. It features voice-to-text transcription, translation, and audio playback, ensuring seamless communication in medical settings.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ Features
+
+Real-Time Voice-to-Text: Converts spoken words into text instantly.
+
+Multilingual Translation: Supports multiple languages for seamless communication.
+
+Audio Playback: Translated text can be played back as speech.
+
+User-Friendly Interface: Intuitive UI for easy access and navigation.
+
+Fast & Secure: Ensures data security and efficient processing.
+
+🛠️ Tech Stack
+
+Frontend: React.js
+
+Backend: Node.js, Express.js
+
+Database: MongoDB
+
+AI Integration: Generative AI for accurate translations
+
+Deployment: Vercel.
