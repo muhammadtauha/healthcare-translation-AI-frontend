@@ -16,7 +16,7 @@ User-Friendly Interface: Intuitive UI for easy access and navigation.
 
 Fast & Secure: Ensures data security and efficient processing.
 
-🛠️ Tech Stack
+ Tech Stack
 
 Frontend: React.js
 
