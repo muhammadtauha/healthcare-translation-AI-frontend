@@ -27,3 +27,4 @@ Database: MongoDB
 AI Integration: Generative AI for accurate translations
 
 Deployment: Vercel.
+https://healthcare-translation-app-ai.vercel.app/
